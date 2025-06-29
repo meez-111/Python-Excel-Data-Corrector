@@ -32,8 +32,8 @@ The script leverages the `openpyxl` library to interact with Excel files.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/meez-111/Python Excel Data Corrector.git
-    cd Python Excel Data Corrector
+    git clone https://github.com/meez-111/Python-Excel-Data-Corrector.git
+    cd Python-Excel-Data-Corrector
     ```
 2.  **Install dependencies:**
     This project requires `openpyxl`. You can install it using pip:
